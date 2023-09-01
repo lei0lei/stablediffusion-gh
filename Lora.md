@@ -4,6 +4,7 @@ title: Lora
 permalink: /lora
 has_children: true
 has_toc: true
+nav_order: 4
 ---
 <details open markdown="block">
   <summary>

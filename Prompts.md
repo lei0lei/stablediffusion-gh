@@ -4,6 +4,7 @@ title: Prompts
 permalink: /prompts
 has_children: true
 has_toc: true
+nav_order: 2
 ---
 <details open markdown="block">
   <summary>
