@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Stable Diffusion All in One
+description: 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://lei0lei.github.io/stablediffusion-gh
+enable_copy_code_button: true
+callouts:
+  highlight:
+    title: tips
+    color: yellow
+  
+  warning:
+    title: warning
+    color: red
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  note:
+    title: note
+    color: blue
