@@ -2,7 +2,7 @@
 layout: default
 title: resources
 permalink: /prompts/resources
-parent: prompts
+parent: Prompts
 has_toc: true
 ---
 <details open markdown="block">
