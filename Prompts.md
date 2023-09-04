@@ -33,7 +33,8 @@ weird atmosphere, (best quality:1.1), (masterpiece:1.2), high quality shadow, be
 
 ### Negative Prompt
 
-```watermark, text, ((background characters)), realistic, (extra digits:1.4), (worst quality, low quality:1.4), (malformed hands:1.4), (poorly drawn hands:1.4), (mutated fingers:1.4), (extra limbs:1.35), (poorly drawn face:1.4), EasyNegative:1.2, bad-hands-5,
+```
+watermark, text, ((background characters)), realistic, (extra digits:1.4), (worst quality, low quality:1.4), (malformed hands:1.4), (poorly drawn hands:1.4), (mutated fingers:1.4), (extra limbs:1.35), (poorly drawn face:1.4), EasyNegative:1.2, bad-hands-5,
 ```
 ### LONG QUALITY:
 
