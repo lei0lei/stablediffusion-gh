@@ -69,12 +69,12 @@ seed: -1
 
 # 发型
 
-| 1  | 2  |  3 |
-|:---|:---|:---|
-|![]({{site.url}}/assets/images/prompts-absurdly_long_hair.png) | ![]({{site.url}}/assets/images/prompts-ahoge.png)| ![]({{site.url}}/assets/images/prompts-antenna_hair.png)|
-|absurdly_long_hair | ahoge|antenna_hair |
-| ![]({{site.url}}/assets/images/prompts-asymmetrical_bangs.png) | | |
-|asymmetrical_bangs | | |
+| 1  | 2  |
+|:---|:---|
+|![]({{site.url}}/assets/images/prompts-absurdly_long_hair.png) | ![]({{site.url}}/assets/images/prompts-ahoge.png)|
+|absurdly_long_hair | ahoge|
+| ![]({{site.url}}/assets/images/prompts-asymmetrical_bangs.png) | ![]({{site.url}}/assets/images/prompts-antenna_hair.png)|
+|asymmetrical_bangs |antenna_hair |
 
 
 # 衣服
