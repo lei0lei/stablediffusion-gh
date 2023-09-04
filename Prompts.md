@@ -20,8 +20,8 @@ nav_order: 2
 
 ## 相机视角
 
-![]({{site.url}}/assets/images/prompts-camera.jpg)
 
+![]({{site.url}}/assets/images/prompts-camera.jpg)
 
 ## 图像质量
 图像质量tags应该放在主体prompts的前面或者后面，默认情况下最好添加图像质量prompt，因为某些Lora会把 `masterpiece`,`best quality`之类的prompts作为出发提示词。
