@@ -75,7 +75,7 @@ seed: -1
 |absurdly_long_hair | ahoge|
 | ![]({{site.url}}/assets/images/prompts-asymmetrical_bangs.png) | ![]({{site.url}}/assets/images/prompts-antenna_hair.png)|
 |asymmetrical_bangs |antenna_hair |
-
+{: .v-align-middle }
 
 # 衣服
 ## 上衣
