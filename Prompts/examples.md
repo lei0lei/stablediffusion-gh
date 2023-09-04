@@ -1,10 +1,10 @@
 ---
 layout: default
-title: resources
-permalink: /prompts/resources
+title: light
+permalink: /prompts/light
 parent: Prompts
 has_toc: true
-nav_order: 5
+nav_order: 4
 ---
 <details open markdown="block">
   <summary>

@@ -4,6 +4,7 @@ title: scene
 permalink: /prompts/scene
 parent: Prompts
 has_toc: true
+nav_order: 3
 ---
 <details open markdown="block">
   <summary>

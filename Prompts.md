@@ -16,7 +16,7 @@ nav_order: 2
 </details>
 
 # prompts教程
-人物常用prompts示例
+常用prompts示例
 
 ## 相机视角
 
@@ -24,7 +24,7 @@ nav_order: 2
 
 
 ## 图像质量
-图像质量tags应该放在主体prompts的前面或者后面，默认情况下最好添加图像质量prompt，并且某些Lora会把 `masterpiece`,`best quality`之类的prompts作为出发提示词。
+图像质量tags应该放在主体prompts的前面或者后面，默认情况下最好添加图像质量prompt，因为某些Lora会把 `masterpiece`,`best quality`之类的prompts作为出发提示词。
 ### Quality Prompt
 
 ```
@@ -98,16 +98,121 @@ gamer, table, gaming chair, computer, monitor, keyboard, mouse,
 ```
 
 ## 角色特征
-
 ### 通用角色特征
-
+```
+1girl/1boy
+```
 ### 发型
-
+```
+length hair, color hair,
+```
+```
+ponytail, twintail, braid, updo, etc.
+```
+```
+color eyes,
+```
+```
+heterochromia, fox eyes, etc.
+```
+```
+breasts size
+Large, medium, small, etc.
+```
+其他tags：
+```
+beautiful, cute, evil, naughty, short, tall, mature, skin tone, busty, slim, fit, muscular
+```
+比如:
+```
+1girl, long hair, orange hair, ponytail, green eyes, large breasts,
+```
 
 
 ### 着装
 
+这类prompts用来描述角色的穿着，如果我们添加了一个boots tag，最终的生成结果就会生成一个穿着boots的角色。
 
+
+上身: 
+```
+shirts, blouses, sweaters, and jackets.
+```
+下身:
+
+```
+pants, shorts, skirts, and leggings, fall under this category.
+```
+鞋子
+```
+shoes, boots, sandals, and other types of footwear designed to protect and support the feet.
+```
+
+内衣
+```
+Clothing worn under other garments to protect, support, or cover intimate body parts, such as bras, panties, and undershirts.
+```
+Accessories
+```
+hats, scarves, belts, gloves, and jewelry that are worn to complement an outfit or provide additional functionality.
+```
+如果不使用outfit tag的话，最终生成的outfit会取决于正在用的模型。
+prompt使用的时候从外到内,从上到下描述。
+
+**Casual**
+```
+baseball cap, leather jacket, turtleneck, necklace, pleated skirt, thighhighs, garter straps,
+```
+**Student**
+```
+school uniform, gakuran, white shirt, serafuku, armband, plaid skirt, watch,
+```
+**Teacher**
+```
+teacher, long sleeves, button down polo, shirt tucked in, pencil skirt, thighhighs, garter straps,
+```
+**Gym**
+```
+ponytail, hair scrunchie, criss-cross halter, sports bra, athletic shorts / leggings, sweat,
+```
+**Sports (tennis/golf)**
+```
+visor cap, polo shirt, shirt tucked in, plaid skirt,
+```
+**Dress**
+```
+collarbone, bare shoulders, hair ornament, jewelry, choker, black dress, criss-cross halterneck, gloves,
+```
+**Suit (Formal)**
+```
+tuxedo, trousers, formal
+```
+**Suit (Business)**
+```
+business suit, blazer, white shirt, necktie, pants,
+```
+**Bunny Suit**
+```
+playboy bunny, rabbit ears, fake animal ears, collar, bowtie, wrist cuffs, navel, rabbit tail, thighhighs,
+```
+**Swimwear**
+```
+criss-cross bikini, sarong,bikini
+```
+**Military**
+```
+1. military, military uniform, peaked cap, coat, shirt, necktie, gloves, pants,
+2. military, military uniform, It consists of a navy blue double-breasted tailcoat with standing collar faced white with gold edging worn with gold shoulder boards and gold laced blue trousers,
+```
+**Police**
+```
+police, police uniform, peaked cap, blue shirt, breast pocket, necktie, armband, gloves, blue pencil skirt, holster,
+```
+
+
+### 动作
+
+准确描述正在发生的事情比如角色正在看向哪里，角色坐着还是站着(standing/sitting),手里是否拿着(holding)东西,正在做什么，摆的什么突出(striking)姿势.
 
 
 ----
