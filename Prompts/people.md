@@ -72,7 +72,7 @@ seed: -1
 | 1  | 2  |  3 |
 |:---|:---|:---|
 |![]({{site.url}}/assets/images/prompts-absurdly_long_hair.png) | ![]({{site.url}}/assets/images/prompts-ahoge.png)| ![]({{site.url}}/assets/images/prompts-antenna_hair.png)|
-|absurdly_long_hair | ahoge|antenna_hair |asymmetrical_bangs |
+|absurdly_long_hair | ahoge|antenna_hair |
 | ![]({{site.url}}/assets/images/prompts-asymmetrical_bangs.png) | | |
 |asymmetrical_bangs | | |
 
