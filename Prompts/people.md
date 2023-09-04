@@ -17,7 +17,7 @@ nav_order: 1
 
 ----
 这个文档列出了人物角色相关的prompts,使用的基础模型有两个:
-- 动漫模型:
+- 动漫模型:meindMix-3.0
 - 真实人物模型:
 
 **画质prompts**
@@ -41,10 +41,10 @@ seed: -1
 
 # 身材
 
-| head1        | head two          | three |
+| 1  | 2  |3 |4|
 |:-------------|:------------------|:------|
-|![]({{site.url}}/assets/images/prompts-camera.jpg)| ![]({{site.url}}/assets/images/prompts-camera.jpg) | ![]({{site.url}}/assets/images/prompts-camera.jpg)  |
-|1 | 2|3 |
+|![]({{site.url}}/assets/images/prompts-camera.jpg)| ![]({{site.url}}/assets/images/prompts-camera.jpg) | ![]({{site.url}}/assets/images/prompts-camera.jpg)  |![]({{site.url}}/assets/images/prompts-camera.jpg)|
+|1 | 2|3 |4|
 
 
 
@@ -59,10 +59,28 @@ seed: -1
 
 # 动作
 
+
+# 姿势
+
+
+
+
 # 发型
 
 
+
+
+
 # 衣服
+## 上衣
+
+
+## 下衣
+
+
+## 内衣
+
+
 
 
 
