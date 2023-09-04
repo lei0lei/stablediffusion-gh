@@ -1,7 +1,7 @@
 ---
 layout: default
-title: light
-permalink: /prompts/light
+title: style
+permalink: /prompts/style
 parent: Prompts
 has_toc: true
 nav_order: 4
