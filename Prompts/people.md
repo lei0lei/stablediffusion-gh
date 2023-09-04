@@ -70,7 +70,7 @@ seed: -1
 # 发型
 
 | 1  | 2  | 3 | 4 |
-|:---|:---|:---|：---|
+|:---|:---|:---|:---|
 |![]({{site.url}}/assets/images/prompts-absurdly_long_hair.png) | ![]({{site.url}}/assets/images/prompts-ahoge.png)|![]({{site.url}}/assets/images/prompts-antenna_hair.png)|![]({{site.url}}/assets/images/prompts-asymmetrical_bangs.png) |
 |absurdly_long_hair | ahoge| antenna_hair |asymmetrical_bangs |
 | ![]({{site.url}}/assets/images/prompts-asymmetrical_hair.png)|![]({{site.url}}/assets/images/prompts-antenna_hair.png)|1|1|
