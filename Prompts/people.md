@@ -19,7 +19,7 @@ nav_order: 1
 这个文档列出了人物角色相关的prompts,使用的基础模型有两个:
 - 动漫模型:meindMix-3.0
 - 真实人物模型:
-测试过程中使用prompts matrix功能。
+
 
 
 **画质prompts**
@@ -48,10 +48,14 @@ seed: -1
 |![]({{site.url}}/assets/images/prompts-camera.jpg)| ![]({{site.url}}/assets/images/prompts-camera.jpg) | ![]({{site.url}}/assets/images/prompts-camera.jpg)  |![]({{site.url}}/assets/images/prompts-camera.jpg)|
 |1 | 2|3 |4|
 
+# 眼睛
+
+
+# 表情
 
 
 
-
+# 耳朵
 
 
 
@@ -80,7 +84,6 @@ seed: -1
 |![]({{site.url}}/assets/images/prompts-blunt_bangs.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-bob_cut.png){: width="250" }|![]({{site.url}}/assets/images/prompts-braid.png){: width="250" }|
 |blunt_bangs|  bob_cut | braid|
 |![]({{site.url}}/assets/images/prompts-brown_hair.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-crossed_bangs.png){: width="250" }|![]({{site.url}}/assets/images/prompts-crown_braid.png){: width="250" }|
-
 |brown_hair|	crossed_bangs|	crown_braid	|
 |![]({{site.url}}/assets/images/prompts-curly_hair.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-double_bun.png){: width="250" }|![]({{site.url}}/assets/images/prompts-drill_hair.png){: width="250" }|
 |curly_hair  |double_bun	|drill_hair|
