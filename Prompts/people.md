@@ -63,6 +63,18 @@ seed: -1
 |grin|happy|light_smile|
 |![]({{site.url}}/assets/images/prompts-open_mouth.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-parted_lips.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-pout.png){: width="250" } |
 |open_mouth|parted_lips|pout|
+|![]({{site.url}}/assets/images/prompts-sharp_teeth.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-smile.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-smirk.png){: width="250" } |
+|sharp_teeth|smile|smirk|
+|![]({{site.url}}/assets/images/prompts-surprised.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-tears.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-trembling.png){: width="250" } |
+|surprised|tears|trembling|
+|![]({{site.url}}/assets/images/prompts-wavy_mouth.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-wide-eyed.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-furrowed_brow.png){: width="250" } |
+|wavy_mouth|wide-eyed|furrowed_brow|
+|![]({{site.url}}/assets/images/prompts-P.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-blush.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-closed_eyes.png){: width="250" } |
+|:P|blush|closed_eyes|
+|![]({{site.url}}/assets/images/prompts-expressionless.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-nose_blush.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-serious.png){: width="250" } |
+|expressionless|nose_blush|serious|
+|![]({{site.url}}/assets/images/prompts-smug.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-v-shaped_eyebrows.png){: width="250" } |  |
+|smug|v-shaped_eyebrows||
 
 # 眼睛
 
