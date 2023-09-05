@@ -24,7 +24,7 @@ nav_order: 2
 ![]({{site.url}}/assets/images/prompts-camera.jpg)
 
 ## 图像质量
-图像质量tags应该放在主体prompts的前面或者后面，默认情况下最好添加图像质量prompt，因为某些Lora会把 `masterpiece`,`best quality`之类的prompts作为出发提示词。
+图像质量tags应该放在主体prompts的前面或者后面，默认情况下最好添加图像质量prompt，因为某些Lora会把 `masterpiece`,`best quality`之类的prompts作为出发提示词,具体使用什么图像质量tag还应该取决于基础模型，某些模型对特定的tag更加敏感，有一个经验是越动漫化的模型越需要这些tag。
 ### Quality Prompt
 
 ```

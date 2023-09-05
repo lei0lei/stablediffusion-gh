@@ -43,10 +43,11 @@ seed: -1
 
 # 身材
 
-| 1  | 2  |3 |4|
+| 1  | 2  |3 |
 |:-------------|:------------------|:------|
-|![]({{site.url}}/assets/images/prompts-camera.jpg)| ![]({{site.url}}/assets/images/prompts-camera.jpg) | ![]({{site.url}}/assets/images/prompts-camera.jpg)  |![]({{site.url}}/assets/images/prompts-camera.jpg)|
-|1 | 2|3 |4|
+|![]({{site.url}}/assets/images/prompts-1-D.jpg){: width="250" }| ![]({{site.url}}/assets/images/prompts-2-D.jpg){: width="250" } | ![]({{site.url}}/assets/images/prompts-O.jpg){: width="250" } |
+|;D|:D|:O|
+
 
 # 眼睛
 
