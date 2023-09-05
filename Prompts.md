@@ -245,6 +245,8 @@ bad_prompt_version2, badv3, (by bad-artist-anime), (by bad-artist-anime:0.8),
 
 ### `{}`
 
+### cutoff
+
 
 ### 权重
 

@@ -51,7 +51,18 @@ seed: -1
 |:-------------|:------------------|:------|
 |![]({{site.url}}/assets/images/prompts-1-D.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-2-D.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-O.png){: width="250" } |
 |;D|:D|:O|
-
+|![]({{site.url}}/assets/images/prompts-T.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-anger_vein.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-angry.png){: width="250" } |
+|:T|anger_vein|angry|
+|![]({{site.url}}/assets/images/prompts-blush_stickers.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-chestnut_mouth.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-clenched_teeth.png){: width="250" } |
+|blush_stickers|chestnut_mouth|clenched_teeth|
+|![]({{site.url}}/assets/images/prompts-crying.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-dot_nose.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-embarrassed.png){: width="250" } |
+|crying|dot_nose|embarrassed|
+|![]({{site.url}}/assets/images/prompts-freckles.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-frown.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-full-face_blush.png){: width="250" } |
+|freckles|frown|full-face_blush|
+|![]({{site.url}}/assets/images/prompts-grin.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-happy.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-light_smile.png){: width="250" } |
+|grin|happy|light_smile|
+|![]({{site.url}}/assets/images/prompts-open_mouth.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-parted_lips.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-pout.png){: width="250" } |
+|open_mouth|parted_lips|pout|
 
 # 眼睛
 
