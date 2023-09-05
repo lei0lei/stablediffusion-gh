@@ -43,6 +43,8 @@ seed: -1
 
 # 身材
 
+
+# 表情
 | 1  | 2  |3 |
 |:-------------|:------------------|:------|
 |![]({{site.url}}/assets/images/prompts-1-D.png){: width="250" }| ![]({{site.url}}/assets/images/prompts-2-D.png){: width="250" } | ![]({{site.url}}/assets/images/prompts-O.png){: width="250" } |
@@ -51,8 +53,6 @@ seed: -1
 
 # 眼睛
 
-
-# 表情
 
 
 
