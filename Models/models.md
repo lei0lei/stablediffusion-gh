@@ -20,7 +20,7 @@ nav_order: 4
 C站常用base model:
 
 
-挖宝网站:
+huggingface网站:
 https://huggingface.co/models?library=diffusers
 
 国产搬运网站:
